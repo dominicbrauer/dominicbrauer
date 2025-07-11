@@ -18,6 +18,7 @@ Currently I am a student in computer science. Since I am relatively new to progr
 	<img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000" alt="Python" />
 	<img src="https://img.shields.io/badge/Spring Boot-6db33f.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=ffffff&labelColor=000000" alt="Spring Boot" />
 	<img src="https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff&labelColor=000000" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/VS Code-007acc.svg?style=for-the-badge&logo=VSC&logoColor=ffffff&labelColor=000000" alt="Visual Studio Code" />
 	<img src="https://img.shields.io/badge/Windows-0078d3.svg?style=for-the-badge&logo=Windows&logoColor=ffffff&labelColor=000000" alt="Windows" />
 </p>
 
