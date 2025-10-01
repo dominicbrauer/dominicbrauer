@@ -25,6 +25,11 @@ Currently I am a student in computer science. Since I am relatively new to progr
 
 ## Stats
 <p>
-	<img height=200 align="center" src=https://github-readme-stats.vercel.app/api?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&count_private=true>
-	<img height=200 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&layout=compact>
+	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+</p>
+
+## Badges
+<p>
+	<img height="200" src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp">
 </p>
