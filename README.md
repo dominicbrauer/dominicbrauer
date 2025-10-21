@@ -32,4 +32,5 @@ Currently I am a student in computer science. Since I am relatively new to progr
 ## Badges
 <p>
 	<img height="200" src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp">
+	<img height="200" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=">
 </p>
