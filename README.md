@@ -22,6 +22,7 @@ Currently I am a student in computer science. Since I am relatively new to progr
 	<img src="https://img.shields.io/badge/VS Code-007acc.svg?style=for-the-badge&logo=VSC&logoColor=ffffff&labelColor=000000" alt="Visual Studio Code" />
 	<img src="https://img.shields.io/badge/Windows-0078d3.svg?style=for-the-badge&logo=Windows&logoColor=ffffff&labelColor=000000" alt="Windows" />
 	<img src="https://img.shields.io/badge/Rust-d34516.svg?style=for-the-badge&logo=Rust&logoColor=ffffff&labelColor=000000" alt="Rust" />
+	<img src="https://img.shields.io/badge/Zed-084ccf.svg?style=for-the-badge&logo=Zed%20Industries&logoColor=ffffff&labelColor=000000" alt="Zed" />
 </p>
 
 ## Stats
