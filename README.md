@@ -27,12 +27,6 @@ Currently I am a student in computer science. Fun or school projects can be foun
 	<img src="https://img.shields.io/badge/Zed-084ccf.svg?style=for-the-badge&logo=Zed%20Industries&logoColor=ffffff&labelColor=000000" alt="Zed" />
 </p>
 
-## Stats
-<p>
-	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
-	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbrauer&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
-</p>
-
 ## Badges
 <p>
 	<img height="200" src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp">
