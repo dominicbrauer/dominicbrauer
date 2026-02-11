@@ -2,7 +2,7 @@
 
 My name is Dominic.
 
-Currently I am a student in computer science. Fun or school projects can be found here 🙈
+Currently I am a student in computer science.
 
 ## Things I work with
 <p>
