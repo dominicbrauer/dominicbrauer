@@ -7,6 +7,7 @@ Currently I am a student in computer science.
 ## Things I actively work with
 <p>
 	<img src="https://img.shields.io/badge/Astro-bc52ee.svg?style=for-the-badge&logo=Astro&logoColor=white&labelColor=000000" alt="Astro" />
+	<img src="https://img.shields.io/badge/C/C++-a8b9cc.svg?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=000000" alt="C/C++" />
 	<img src="https://img.shields.io/badge/Fedora-51a2da.svg?style=for-the-badge&logo=Fedora&logoColor=ffffff&labelColor=000000" alt="Fedora" />
 	<img src="https://img.shields.io/badge/Figma-f24e1e.svg?style=for-the-badge&logo=Figma&logoColor=ffffff&labelColor=000000" alt="Figma" />
 	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=000000" alt="GitHub" />
@@ -19,7 +20,6 @@ Currently I am a student in computer science.
 
 ## Things I already worked with
 <p>
-	<img src="https://img.shields.io/badge/C/C++-a8b9cc.svg?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=000000" alt="C/C++" />
 	<img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=CSS&logoColor=ffffff&labelColor=000000" alt="CSS" />
 	<img src="https://img.shields.io/badge/HTML-e34f26.svg?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000" alt="HTML" />
 	<img src="https://img.shields.io/badge/Java-4d7997.svg?style=for-the-badge" alt="Java" />
