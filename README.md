@@ -29,6 +29,6 @@ Currently I am a student in computer science.
 	<img src="https://img.shields.io/badge/Spring Boot-6db33f.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=ffffff&labelColor=000000" alt="Spring Boot" />
 </p>
 
-## Things I unfortunately already worked with
+## Things I unfortunately already work with
 
 <img src="https://img.shields.io/badge/Windows-0078d3.svg?style=for-the-badge&logo=Windows&logoColor=ffffff&labelColor=000000" alt="Windows" />
