@@ -23,4 +23,5 @@ Currently I am a student in computer science.
 	<img src="https://img.shields.io/badge/Rust-d34516.svg?style=for-the-badge&logo=Rust&logoColor=ffffff&labelColor=000000" alt="Rust" />
 	<img src="https://img.shields.io/badge/Spring Boot-6db33f.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=ffffff&labelColor=000000" alt="Spring Boot" />
 	<img src="https://img.shields.io/badge/Windows-0078d3.svg?style=for-the-badge&logo=Windows&logoColor=ffffff&labelColor=000000" alt="Windows" />
+	<img src="https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=ffffff&labelColor=000000" alt="Zed" />
 </p>
